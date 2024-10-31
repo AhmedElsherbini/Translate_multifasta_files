@@ -1,5 +1,7 @@
 # Translate_multifasta_files 
 
+**Kindly if you find this repo useful for your work, cite & star this repo**
+
 This simple Python3 script aims to translate DNA multi-FASTA files into protein files using the 1st reading frame.
 
 ## Usage
