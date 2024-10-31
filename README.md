@@ -2,8 +2,6 @@
 
 This simple Python3 script aims to translate DNA multi-FASTA files into protein files using the 1st reading frame.
 
-**Note**: Till now, this script supports only valid HTTPS (not Amazon s3, FTP clients).
-
 ## Usage
 If you have one single file
 
@@ -16,9 +14,7 @@ If you have many files with the same extension
 ```bash
  python translate_multifasta_file.py -b .afa
 ```
-
-As dependencies, you need to have (via pip3 or conda)
-Biopython , fnmatch, and argparse
+As dependencies, you need to have Biopython, fnmatch, and argparse (via pip3, conda)
 
 ## Contributing
 Everything is clear. But anyhow, contact me here or directly via email: drahmedsherbini@yahoo.com
