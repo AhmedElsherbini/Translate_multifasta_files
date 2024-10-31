@@ -14,7 +14,7 @@ If you have many files with the same extension
 ```bash
  python translate_multifasta_file.py -b .afa
 ```
-As dependencies, you need to have Biopython, fnmatch, and argparse (via pip3, conda)
+As dependencies, you need to have Biopython, fnmatch, and argparse (via pip3 or conda)
 
 ## Contributing
 Everything is clear. But anyhow, contact me here or directly via email: drahmedsherbini@yahoo.com
