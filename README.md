@@ -6,13 +6,13 @@ This simple Python3 script aims to translate DNA multi-FASTA files into protein 
 If you have one single file
 
 ```bash
- python translate_multifasta_file.py -i test1.afa
+ python3 translate_multifasta_file.py -i test1.afa
 
 ```
 If you have many files with the same extension
 
 ```bash
- python translate_multifasta_file.py -b .afa
+ python3 translate_multifasta_file.py -b .afa
 ```
 As dependencies, you need to have Biopython, fnmatch, and argparse (via pip3 or conda)
 
