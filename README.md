@@ -20,6 +20,7 @@ As dependencies, you need to have Biopython, fnmatch, and argparse (via pip3 or 
 
 ## Contributing
 Everything is clear. But anyhow, contact me here or directly via email: drahmedsherbini@yahoo.com
+
 ## License
 This tool aims to help others. Kindly, cite my GitHub page!
 
